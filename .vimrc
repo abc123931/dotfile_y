@@ -53,6 +53,7 @@ set softtabstop=4
 set expandtab
 set tabstop=4
 set smarttab
+set tags=/home/yukimat/tags
 
 set clipboard=unnamed
 set tags=/home/yukimat/tags

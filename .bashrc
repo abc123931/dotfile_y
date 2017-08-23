@@ -5,6 +5,7 @@ if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
 fi
 
+alias ctags='~/packages/bin/ctags'
 
 source ~/.git-prompt.sh
 source ~/.git-completion.bash
