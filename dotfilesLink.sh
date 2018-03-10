@@ -1,4 +1,5 @@
 #!/bin/sh
+cp -r ~/dotfile_y/ ~/dotfiles/
 ln -sf ~/dotfiles/.vimrc ~/.vimrc
 ln -sf ~/dotfiles/.vim ~/.vim
 ln -sf ~/dotfiles/.git-completion.bash ~/.git-completion.bash
